@@ -2,5 +2,6 @@
 env/
 models/
 Regression/.ipynb_checkpoints/
+Classification/.ipynb_checkpoints/
 Access_token.txt
 Computer_Vision/
