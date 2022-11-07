@@ -1,5 +1,14 @@
 # Machine Learning 101 - Zero to Mastery
 
+## In this Repository you can find knowledge regarding..
+
+1. Associative Rule Learning
+2. Classification
+3. Clustering
+4. Natural Language Processing (NLP)
+5. Regression
+6. Reinforcement Learning
+
 ## In order to follow this, Following steps should be followed.
 
 1. Install Miniconda on your computer
